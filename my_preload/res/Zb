@@ -1,0 +1,50 @@
+707:10695 Android Annotations Support Library
+707:10695 Android Compat Support Library
+707:10695 Android Compatibility Library v4
+707:10695 Android Compatibility Library v7
+707:10695 Android Core UI Support Library
+707:10695 Android Fragments Support Library
+707:10695 AndroidX activity library
+707:10695 AndroidX animated vectordrawable library
+707:10695 AndroidX asynchronous layout inflater library
+707:10695 AndroidX concurrent futures library
+707:10695 AndroidX coordinator layout library
+707:10695 AndroidX cursor adapter library
+707:10695 AndroidX document file library
+707:10695 AndroidX drawer layout library
+707:10695 AndroidX legacy coreui library
+707:10695 AndroidX print library
+707:10695 AndroidX sliding pane layout library
+707:10695 AndroidX swipe refresh layout library
+707:10695 AndroidX vectordrawable base library
+707:10695 AndroidX view pager library
+707:10695 savedstate
+11594:10694 Android Architecture Components
+11594:10694 Android Architecture Components Core Library
+11594:10694 Android Architecture Components Lifecycle Library
+11594:10694 Android Architecture Components Lifecycle Runtime Library
+22563:10693 Android Collections Support Library
+22563:10693 Android Coordinator Layout Support Library
+22563:10693 Android Custom View Support Library
+22563:10693 Android Loader Support Library
+22563:10693 Android Local Broadcast Manager Support Library
+22563:10693 AndroidX interpolator library
+22563:10693 AndroidX local broadcast manager library
+33340:10691 Android Core Utils Support Library
+33340:10691 Android Media Compatibility Support Library
+44119:10695 Android Versioned Parcelable Support Library
+44119:10695 AndroidX versioned parcelable library
+54879:11358 Dagger
+54879:11358 Google Auto
+54879:11358 Guava JDK5
+54879:11358 J2ObjC
+54879:11358 JSR 250
+54879:11358 safeparcel
+66253:11357 Error Prone
+77625:11362 Guava JDK7
+88999:11365 JSR 330
+100380:16013 Android SDK
+116412:1096 Animal Sniffer
+117542:1846 Checker Framework Annotations
+119400:1602 JSR 305
+121028:1732 Nano Protocol Buffers
